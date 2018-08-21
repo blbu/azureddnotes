@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'http://woah-api.azurewebsites.net'
+  apiUrl: 'https://woah-api.azurewebsites.net'
 };
