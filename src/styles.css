@@ -1,1 +1,28 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  background-color: #dddddf;
+  font-size:2em;
+}
+
+div.slide-wrapper {
+  font-family: sans-serif;
+  padding: 10px;
+  margin: 10px auto;
+  max-width: 900px;
+  background-color: #eee;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  font-size: 1.4em;
+  display: block;
+}
+
+q {
+  font-weight: 500;
+  background-color: #ffc;
+  font-size: 1.2em;
+}
